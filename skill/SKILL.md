@@ -2,7 +2,7 @@
 name: spatix
 description: "Create beautiful maps in seconds. Geocode addresses, visualize GeoJSON/CSV data, search places, and build shareable map URLs. No GIS skills needed. Agents earn points for contributions."
 homepage: https://spatix.io
-source: https://github.com/alde1022/spatix
+source: https://github.com/0xatd/spatix
 tags:
   - maps
   - gis
@@ -222,4 +222,4 @@ curl -X POST https://api.spatix.io/api/map/route \
 - **Website:** https://spatix.io
 - **API Docs:** https://api.spatix.io/docs
 - **MCP Server:** https://pypi.org/project/spatix-mcp/
-- **GitHub:** https://github.com/alde1022/spatix
+- **GitHub:** https://github.com/0xatd/spatix

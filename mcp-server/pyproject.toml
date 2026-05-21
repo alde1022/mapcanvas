@@ -27,9 +27,9 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://spatix.io"
-Documentation = "https://github.com/alde1022/spatix/tree/main/mcp-server"
-Repository = "https://github.com/alde1022/spatix"
-Issues = "https://github.com/alde1022/spatix/issues"
+Documentation = "https://github.com/0xatd/spatix/tree/main/mcp-server"
+Repository = "https://github.com/0xatd/spatix"
+Issues = "https://github.com/0xatd/spatix/issues"
 
 [project.scripts]
 spatix-mcp = "spatix_mcp:main"
