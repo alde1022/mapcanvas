@@ -1,5 +1,11 @@
 # Spatix
 
+## What this is
+
+Spatix is a map-generation/GIS product for turning files or structured geodata into shareable maps. It includes frontend, backend, MCP, and skill surfaces for AI-agent use.
+
+Status: mapping product. Keep distinct from GISTools unless Alex explicitly decides to consolidate the GIS line.
+
 **Maps in seconds. No GIS skills needed.**
 
 Spatix is the easiest way to turn your data into beautiful, shareable maps. Drop any file → instant map → style → share.
